@@ -9,9 +9,9 @@ Códigos relacionados com os cursos da formação Data Science da Alura. Cursos 
    *Arquivos*: IntroDataScience\movies.csv | IntroDataScience\ratings.csv | IntroDataScience\tmdb_5000_movies.csv
 3) Python Pandas: Tratando e analisando dados
 
-   *Notebook*: PythonPandas.ipynb | PythonPandas2-DataFrame_Series.ipynb | EstruturaDeDados.ipynb | ImoveisResidenciais.ipynb | OrganizandoDataFrames-Sort.ipynb
+   *Notebook*: PythonPandas.ipynb | PythonPandas2-DataFrame_Series.ipynb | EstruturaDeDados.ipynb | ImoveisResidenciais.ipynb | OrganizandoDataFrames-Sort.ipynb | SelecoesFrequencias.ipynb
    
-   *Arquivos*: Pandas\aluguel.csv | aluguel.json | aluguel.txt | aluguel.xlsx
+   *Arquivos*: Pandas\aluguel.csv | aluguel.json | aluguel.txt | aluguel.xlsx | Aluguel_Residencial2.csv
 5) Estatística com Python parte 1: Frequências e Medidas
 6) Estatística com Python parte 2: Probabilidade e Amostragem
 7) Regressão Linear: Técnicas Avançadas de Modelagem
