@@ -25,7 +25,7 @@ Códigos relacionados com os cursos da formação Data Science da Alura. Cursos 
    
    - OrganizandoDataFrames-Sort.ipynb: Faz a ordenação de linhas e colunas através dos rótulos das mesmas. Faz a ordenação de linhas e colunas pelos valores contidos nela, de forma ascendente e descendente.
    
-   - SelecoesFrequencias.ipynb: Seleção de registros de um DataFrame filtrando por valores específicos em colunas específicas. Ex.: Coluna "Tipo" é "Apartamento" e coluna "Área" entre 60 e 100
+   - SelecoesFrequencias.ipynb: Seleção de registros de um DataFrame filtrando por valores específicos em colunas específicas. Ex.: Coluna "Tipo" é "Apartamento" e coluna "Área" entre 60 e 100. Uso de condições OR (|) e AND (&)
    
    - FormasSelecao.ipynb: Seleção de linhas e colunas de um DataFrame, usando tanto os índices numéricos que identificam estas linhas e colunas, quanto os seus rótulos.
    
