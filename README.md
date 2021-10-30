@@ -9,7 +9,7 @@ Códigos relacionados com os cursos da formação Data Science da Alura. Cursos 
    *Arquivos*: IntroDataScience\movies.csv | IntroDataScience\ratings.csv | IntroDataScience\tmdb_5000_movies.csv
 3) Python Pandas: Tratando e analisando dados
 
-   *Notebook*: PythonPandas.ipynb | PythonPandas2-DataFrame_Series.ipynb | EstruturaDeDados.ipynb | ImoveisResidenciais.ipynb | OrganizandoDataFrames-Sort.ipynb | SelecoesFrequencias.ipynb | FormasSelecao.ipynb | TratandoDadosFaltantes.ipynb | MetodosInterpolacao.ipynb
+   *Notebook*: PythonPandas.ipynb | PythonPandas2-DataFrame_Series.ipynb | EstruturaDeDados.ipynb | ImoveisResidenciais.ipynb | OrganizandoDataFrames-Sort.ipynb | SelecoesFrequencias.ipynb | FormasSelecao.ipynb | TratandoDadosFaltantes.ipynb | MetodosInterpolacao.ipynb | CriandoNovasVariaveis.ipynb
    
    *Arquivos*: Pandas\aluguel.csv | aluguel.json | aluguel.txt | aluguel.xlsx | Aluguel_Residencial2.csv | Aluguel_Residencial3.csv
    
@@ -32,6 +32,8 @@ Códigos relacionados com os cursos da formação Data Science da Alura. Cursos 
    - TratandoDadosFaltantes.ipynb: Faz a limpeza ou o tratamento de valores nulos no DataFrame de aluguel residencial, usando funções como isnull, notnull, dropna e fillna.
    
    - MetodosInterpolacao.ipynb: Mostra alguns métodos básicos de interpolação de valores para preenchimento dos nulos
+   
+   - CriandoNovasVariaveis.ipynb: Cria novas colunas no DataFrame fazendo operações com as colunas existentes e usando a função lambda
 
 5) Estatística com Python parte 1: Frequências e Medidas
 6) Estatística com Python parte 2: Probabilidade e Amostragem
