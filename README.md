@@ -11,7 +11,7 @@ Códigos relacionados com os cursos da formação Data Science da Alura. Cursos 
 
    *Notebook*: PythonPandas.ipynb | PythonPandas2-DataFrame_Series.ipynb | EstruturaDeDados.ipynb | ImoveisResidenciais.ipynb | OrganizandoDataFrames-Sort.ipynb | SelecoesFrequencias.ipynb | FormasSelecao.ipynb | TratandoDadosFaltantes.ipynb | MetodosInterpolacao.ipynb | CriandoNovasVariaveis.ipynb
    
-   *Arquivos*: Pandas\aluguel.csv | aluguel.json | aluguel.txt | aluguel.xlsx | Aluguel_Residencial2.csv | Aluguel_Residencial3.csv
+   *Arquivos*: Pandas\aluguel.csv | aluguel.json | aluguel.txt | aluguel.xlsx | Aluguel_Residencial2.csv | Aluguel_Residencial3.csv | Aluguel_Residencial4.csv
    
    Conteúdo de cada um dos Notebooks:
    
@@ -33,7 +33,7 @@ Códigos relacionados com os cursos da formação Data Science da Alura. Cursos 
    
    - MetodosInterpolacao.ipynb: Mostra alguns métodos básicos de interpolação de valores para preenchimento dos nulos
    
-   - CriandoNovasVariaveis.ipynb: Cria novas colunas no DataFrame fazendo operações com as colunas existentes e usando a função lambda
+   - CriandoNovasVariaveis.ipynb: Cria novas colunas no DataFrame fazendo operações com as colunas existentes e usando a função lambda. Também faz exclusão de variáveis do DataFrame usando del, pop e drop.
 
 5) Estatística com Python parte 1: Frequências e Medidas
 6) Estatística com Python parte 2: Probabilidade e Amostragem
