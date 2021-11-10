@@ -9,9 +9,9 @@ Códigos relacionados com os cursos da formação Data Science da Alura. Cursos 
    *Arquivos*: IntroDataScience\movies.csv | IntroDataScience\ratings.csv | IntroDataScience\tmdb_5000_movies.csv
 3) Python Pandas: Tratando e analisando dados
 
-   *Notebook*: PythonPandas.ipynb | PythonPandas2-DataFrame_Series.ipynb | EstruturaDeDados.ipynb | ImoveisResidenciais.ipynb | OrganizandoDataFrames-Sort.ipynb | SelecoesFrequencias.ipynb | FormasSelecao.ipynb | TratandoDadosFaltantes.ipynb | MetodosInterpolacao.ipynb | CriandoNovasVariaveis.ipynb | Contadores.ipynb | CriandoAgrupamentos.ipynb | CriandoFaixasValor.ipynb
+   *Notebook*: PythonPandas.ipynb | PythonPandas2-DataFrame_Series.ipynb | EstruturaDeDados.ipynb | ImoveisResidenciais.ipynb | OrganizandoDataFrames-Sort.ipynb | SelecoesFrequencias.ipynb | FormasSelecao.ipynb | TratandoDadosFaltantes.ipynb | MetodosInterpolacao.ipynb | CriandoNovasVariaveis.ipynb | Contadores.ipynb | CriandoAgrupamentos.ipynb | CriandoFaixasValor.ipynb | IdentificandoRemovendoOutliers.ipynb
    
-   *Arquivos*: Pandas\aluguel.csv | aluguel.json | aluguel.txt | aluguel.xlsx | Aluguel_Residencial2.csv | Aluguel_Residencial3.csv | Aluguel_Residencial4.csv
+   *Arquivos*: Pandas\aluguel.csv | aluguel.json | aluguel.txt | aluguel.xlsx | Aluguel_Residencial2.csv | Aluguel_Residencial3.csv | Aluguel_Residencial4.csv | Aluguel_Residencial_Sem_Outliers.csv
    
    Conteúdo de cada um dos Notebooks:
    
@@ -40,6 +40,8 @@ Códigos relacionados com os cursos da formação Data Science da Alura. Cursos 
    - CriandoAgrupamentos.ipynb: Faz agrupamento de valores por uma coluna específica e calcula média de outras colunas.
    
    - CriandoFaixasValor.ipynb: Cria faixas de valores para o número de quartos, para facilitar a contabilização por esse atributo
+   
+   - IdentificandoRemovendoOutliers.ipynb: Retira os outliers dos dados residenciais, usando os quartis, os limites inferior e superior e agrupando por tipo.
 
 5) Estatística com Python parte 1: Frequências e Medidas
 6) Estatística com Python parte 2: Probabilidade e Amostragem
