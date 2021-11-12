@@ -7,7 +7,7 @@ Códigos relacionados com os cursos da formação Data Science da Alura. Cursos 
    *Notebook*: IntroDataScience.ipynb
    
    *Arquivos*: IntroDataScience\movies.csv | IntroDataScience\ratings.csv | IntroDataScience\tmdb_5000_movies.csv
-3) Python Pandas: Tratando e analisando dados
+2) Python Pandas: Tratando e analisando dados
 
    *Notebook*: PythonPandas.ipynb | PythonPandas2-DataFrame_Series.ipynb | EstruturaDeDados.ipynb | ImoveisResidenciais.ipynb | OrganizandoDataFrames-Sort.ipynb | SelecoesFrequencias.ipynb | FormasSelecao.ipynb | TratandoDadosFaltantes.ipynb | MetodosInterpolacao.ipynb | CriandoNovasVariaveis.ipynb | Contadores.ipynb | CriandoAgrupamentos.ipynb | CriandoFaixasValor.ipynb | IdentificandoRemovendoOutliers.ipynb | MaisSobreGrafico.ipynb
    
@@ -45,13 +45,26 @@ Códigos relacionados com os cursos da formação Data Science da Alura. Cursos 
    
    - MaisSobreGrafico.ipynb: Cria área com 4 gráficos e salva tudo como imagem.
 
-5) Estatística com Python parte 1: Frequências e Medidas
-6) Estatística com Python parte 2: Probabilidade e Amostragem
-7) Regressão Linear: Técnicas Avançadas de Modelagem
-8) Data Visualization parte 1: Introdução ao design de gráficos
-9) Data Visualization parte 2: Escolhendo o melhor gráfico
-10) Data Visualization: criação de gráficos com o Matplotlib
-11) Data Science: Introdução a testes estatísticos com Python
-12) Introdução à experimentação: Análise de experimentos
-13) Data Science: análises para saúde e medicina
-14) Data Science: visualização de dados para saúde e medicina
+3) Estatística com Python parte 1: Frequências e Medidas
+
+   *Notebook*: Curso_de_Estatística_Parte_1.ipynb
+
+   *Arquivo*: EstatisticaPython01\dados.csv
+
+4) Estatística com Python parte 2: Probabilidade e Amostragem
+
+5) Regressão Linear: Técnicas Avançadas de Modelagem
+
+6) Data Visualization parte 1: Introdução ao design de gráficos
+
+7) Data Visualization parte 2: Escolhendo o melhor gráfico
+
+8) Data Visualization: criação de gráficos com o Matplotlib
+
+9) Data Science: Introdução a testes estatísticos com Python
+
+10) Introdução à experimentação: Análise de experimentos
+
+11) Data Science: análises para saúde e medicina
+
+12) Data Science: visualização de dados para saúde e medicina
